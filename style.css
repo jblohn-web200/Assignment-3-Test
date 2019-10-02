@@ -93,6 +93,12 @@ a:hover {color: #D47969;
 	font-size: 1.563em;}
 	
 .singleDigit {padding-left: .4em;}
+
+.assign3 {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	}
 	
 .oldH3 {
 	font-weight: 300;
