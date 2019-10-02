@@ -1,0 +1,104 @@
+html {
+	font-size: 16px;}
+	
+h1, h2, h3, li {font-family: 'Oswald', Verdana, Arial, sans-serif;}
+	
+h1 {
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 3.052em;
+	margin: 0;}
+	
+h2 {
+	font-weight: 500;
+	font-size: 2.441em;
+	/* line-height is based off font-size + .5 em below h1 */
+	line-height: 2.991em;
+	margin: 0;
+	/*padding-bottom: .3em;*/}
+	
+h3 {
+	font-weight: 400;}
+	
+ol, ul {
+		border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	padding: 10px;}
+	
+ol {
+	border: 1px solid red;
+	list-style-position: inside;
+	}
+	
+ul {
+	border: 1px dashed red;
+	list-style-position: inside;
+	list-style: none;
+	
+	}
+	
+li {
+	font-weight: 300;}
+
+
+p {
+	font-family: 'Quattrocento', Georgia, "Times New Roman",  serif;
+	font-weight: 400;
+	line-height: 1.4em;}
+	
+p.intro:first-line  {
+	font-style: italic;
+	font-weight: bold;}
+	
+address {
+	font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+	font-size: .8em;}
+	
+address:first-line {
+	font-weight: bold;}
+	
+a {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	/*font-size: 1em;
+	font-weight: bold;*/
+	/*line-height = font-size + space below last address line */
+	/*line-height: 1.5em;*/
+	text-decoration: none;}
+	
+
+a:link {color: #FF634D;
+	}
+
+a:visited {color: #6A3D3B;
+	}
+
+a:hover {color: #D47969;
+	font-size: 1.5em;
+	}
+	
+.redtext {
+	color: red;
+	font-style: normal;}
+	
+.toTop:link {
+	color: black;
+	}
+
+.linktext {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-weight: 300;}
+	
+.sentence {
+	font-size: 1.563em;}
+	
+.singleDigit {padding-left: .4em;}
+	
+.oldH3 {
+	font-weight: 300;
+	text-indent: .5em;
+	font-size: 1.953em;
+	/* line-height is based off font-size + .3 em below h2 */
+	line-height: 2.253;
+	margin: 0;}
+	
